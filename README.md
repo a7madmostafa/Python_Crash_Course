@@ -3,7 +3,6 @@ This is my course to teach Programming with Python
 
 https://youtu.be/wJ5XPfhg7Rk
 
-Python Crash Course
 
 تعلم البرمجة بلغة البايثون فى فيديو واحد فقط
 
